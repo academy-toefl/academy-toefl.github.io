@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# 아카데미 TOEFL
 
-You can use the [editor on GitHub](https://github.com/academy-toefl/academy-toefl.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 목 차
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+TOEFL * 고시 * 취직 * 대학원 수험영어 출제경향과 분석 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 제1부 VOCABULARY
 
-```markdown
-Syntax highlighted code block
+A Key to Word Recognition --- Prefixes, Suffixes, Latin and Greek Stems
 
-# Header 1
-## Header 2
-### Header 3
+PART I.  어 원 (Enlarging Vocabulary through Etymology)	- Group 1~57
+PART II. 유 어 (Enlarging Vocabulary through Synonyms) 	- Group 58~100
+PART III.숙 어 (Enlarging Vocabulary through Idioms)   	- Group 101~122
 
-- Bulleted
-- List
+### 제2부 STRUCTURE & WRITTEN EXPRESSION
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/academy-toefl/academy-toefl.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1 전치수식	  	(Premodification)	- Group 1~12
+2 관사     		(Article) 		- Group 13~17
+3 명사     		(Noun) 			- Group 18~24
+4 대명사 		(Pronoun) 		- Group 25~32
+5 관계대명사 		(Relative Pronoun) 	- Group 33~41
+6 부정대명사 		(Indefinite Pronoun) 	- Group 42~47
+7 형용사 		(Adjective) 		- Group 48~54
+8 부사부 		(Adverbial) 		- Group 55~66
+9 비교 			(Comparison) 		- Group 67~77
+10 조동사 		(Auxiliary Verb) 	- Group 78~84
+11 시제 		(Tense)    		- Group 85~98
+12 법			(Mod)			- Group 99~110
+13 수동			(Passive)		- Group 111~115
+14 문의 종류와 문형	(Setence Pattern)	- Group 116~126
+15 사역동사 * 지각동사		 		- Group 127~129
+16 부정사     		(Infinitive)		- Group 130~134
