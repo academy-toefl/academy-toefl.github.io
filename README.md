@@ -4,7 +4,7 @@
 
 TOEFL * 고시 * 취직 * 대학원 수험영어 출제경향과 분석 
 
-[머릿말](preface1980.md)
+[머리말](preface1980.md)
 
 ### 제1부 VOCABULARY
 
