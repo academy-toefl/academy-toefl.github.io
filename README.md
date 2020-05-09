@@ -1,10 +1,13 @@
 # 아카데미 TOEFL
 
+[개정판을 내면서](preface1990.md)
+
+[머리말](preface1980.md)
+
 ## 목 차
 
 TOEFL * 고시 * 취직 * 대학원 수험영어 출제경향과 분석 
 
-[머리말](preface1980.md)
 
 ### 제1부 VOCABULARY
 
