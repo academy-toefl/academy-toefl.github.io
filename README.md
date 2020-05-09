@@ -13,9 +13,9 @@ TOEFL * 고시 * 취직 * 대학원 수험영어 출제경향과 분석
 
 A Key to Word Recognition --- Prefixes, Suffixes, Latin and Greek Stems
 
-* PART I.  어 원 (Enlarging Vocabulary through Etymology)	- Group 1~57
+* PART I. 어 원 (Enlarging Vocabulary through Etymology)	- Group 1~57
 * PART II. 유 어 (Enlarging Vocabulary through Synonyms) 	- Group 58~100
-* PART III.숙 어 (Enlarging Vocabulary through Idioms)   	- Group 101~122
+* PART III. 숙 어 (Enlarging Vocabulary through Idioms)   	- Group 101~122
 
 ### 제2부 STRUCTURE & WRITTEN EXPRESSION
 
@@ -35,3 +35,7 @@ A Key to Word Recognition --- Prefixes, Suffixes, Latin and Greek Stems
 14. 문의 종류와 문형	(Setence Pattern)	- Group 116~126
 15. 사역동사 * 지각동사		 		- Group 127~129
 16. 부정사     		(Infinitive)		- Group 130~134
+17. 동명사           	(Gerund)       		- Group 135~139
+18. 타동사+to-부정사, 타동사+동명사                 - Group 140~145
+19. 분사                 (Participle)		- Group 146~152
+20. 접속사    		(conjunction)		- Group 153~162
