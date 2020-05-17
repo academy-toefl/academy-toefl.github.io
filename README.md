@@ -44,3 +44,13 @@ A Key to Word Recognition --- Prefixes, Suffixes, Latin and Greek Stems
 23. 대형태(Pro-Form)와 생략(Elilipsis)		- Group 186~189
 24. 부가의문	        (Tag Question)		- Group 190~191
 25. 화법 		(Narration) 		- Group 192
+26. 강조문 * 도치문 * 부정문 			- Group 193~196
+27. 일치 (Concord or Agreement)			- Group 197~199
+28. 일관성 * 간결성 * 논리성 * 병치법		- Group 200~203
+29. 혼동하기 쉬운 동사 (Confusing Verb Pairs)	- Group 204~208
+어 의	     	       		       		- Group 209~210
+문법종합					  	- Group 211~212
+Pronunciation					- Group 213~214
+Accentuation					- Group 215~216
+Spelling					- Group 217
+Abbreviation					- Group 218
