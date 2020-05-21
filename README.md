@@ -58,11 +58,11 @@ A Key to Word Recognition --- Prefixes, Suffixes, Latin and Greek Stems
 ### 제3부 READING COMPREHENSION
 * PART I. 자료해석 (MATERIALS 1~26)
 * PART II. 단 문 
-** 재진술 (PASSAGES 1~90)
-** 문장완성 (QUESTIONS 1~275)
+  * 재진술 (PASSAGES 1~90)
+  * 문장완성 (QUESTIONS 1~275)
 * PART III.
-** 중장문 TOEFL (PASSAGES 1~79)
-** 고시 * 취직 * 대학원 (PASSAGES 1~85)
+  * 중장문 TOEFL (PASSAGES 1~79)
+  * 고시 * 취직 * 대학원 (PASSAGES 1~85)
 
 ### 부록
 1990학년도 1990학년도 서울대학교 대학원(석사) 입학고시문제
