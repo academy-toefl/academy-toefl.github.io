@@ -65,8 +65,8 @@ A Key to Word Recognition --- Prefixes, Suffixes, Latin and Greek Stems
   * 고시 * 취직 * 대학원 (PASSAGES 1~85)
 
 ### 부록
-1990학년도 1990학년도 서울대학교 대학원(석사) 입학고시문제
-1990년도 현대그룹 대졸 신입사원 공채필기시험문제
+* 1990학년도 1990학년도 서울대학교 대학원(석사) 입학고시문제
+* 1990년도 현대그룹 대졸 신입사원 공채필기시험문제
 
-색 인 (Structure & Written Expression)
+### 색 인 (Structure & Written Expression)
 
