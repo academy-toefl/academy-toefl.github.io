@@ -19,17 +19,24 @@
    A) refutes B) overwhelms **C) inhibits** D) loosens
   2. TOEFL 
    In early American novels, the heroines were usually <ins>chaste</ins>.
+   
    A) scheming B) earnest C) fickle **D) virtuous**
    
    We expect housewives are usually <ins>chaste</ins>.
-   A) taciturn B) diligent **C) virtuous** D) earnest
+  
+  A) taciturn B) diligent **C) virtuous** D) earnest
    Psychologists still wonder if some personality traits are innate.
-   A) interminable B) ubadvertent **C) inborn** D) inevitable
+  
+  A) interminable B) ubadvertent **C) inborn** D) inevitable
    In the dark, I took him for George.
-   A) introduced him to           **B) confused him with**
+  
+  A) introduced him to           **B) confused him with**
    C) cheated him for               D) went to see
   3.
    You had better defer to your old man's wishes.
-   **A) yield** B) postpone C) show respect D) disregard
-   You can't defer the action until Mrs. Thomas returns.
-     A) dilate B) scorn **C) delay** D) upbraid
+  
+  **A) yield** B) postpone C) show respect D) disregard
+ 
+ You can't defer the action until Mrs. Thomas returns.
+   
+   A) dilate B) scorn **C) delay** D) upbraid
