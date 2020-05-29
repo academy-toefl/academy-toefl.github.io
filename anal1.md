@@ -15,3 +15,15 @@
 
   Despite the poor weather conditions, the delivery people could not be <ins>deterred from</ins> their work. ('80/1 TOEFL) -> p.30  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) outdone at&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) summoned from&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C) kept from**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) displaced at
+  Fluoride deters tooth decay by reducing the growth of bacteria that destroy tooth enamel. 
+  2. TOEFL 
+   In early American novels, the heroines were usually <ins>chaste</ins>.
+   A) scheming B) earnest C) fickle **D) virtuous**
+   
+   We expect housewives are usually <ins>chaste</ins>.
+   A) taciturn B) diligent **C) virtuous** D) earnest
+   Psychologists still wonder if some personality traits are innate.
+   In the dark, I took him for George.
+  3.
+   You had better defer to your old man's wishes.
+   You can't defer the action until Mrs. Thomas returns.
