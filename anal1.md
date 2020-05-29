@@ -16,7 +16,7 @@
   Despite the poor weather conditions, the delivery people could not be <ins>deterred from</ins> their work. ('80/1 TOEFL) -> p.30  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) outdone at&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) summoned from&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C) kept from**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) displaced at
 
-Fluoride deters tooth decay by reducing the growth of bacteria that destroy tooth enamel. 
+Fluoride <ins>deters</ins> tooth decay by reducing the growth of bacteria that destroy tooth enamel. 
    
    A) refutes B) overwhelms **C) inhibits** D) loosens
   
@@ -30,7 +30,7 @@ Fluoride deters tooth decay by reducing the growth of bacteria that destroy toot
   
   A) taciturn B) diligent **C) virtuous** D) earnest
  
- Psychologists still wonder if some personality traits are innate.
+ Psychologists still wonder if some personality traits are <ins>innate</ins>.
   
   A) interminable B) ubadvertent **C) inborn** D) inevitable
   
@@ -38,11 +38,13 @@ Fluoride deters tooth decay by reducing the growth of bacteria that destroy toot
   
   A) introduced him to           **B) confused him with**
    C) cheated him for               D) went to see
+  
   3.
-   You had better defer to your old man's wishes.
+   
+   You had better <ins>defer</ins> to your old man's wishes.
   
   **A) yield** B) postpone C) show respect D) disregard
  
- You can't defer the action until Mrs. Thomas returns.
+ You can't <ins>defer</ins> the action until Mrs. Thomas returns.
    
    A) dilate B) scorn **C) delay** D) upbraid
