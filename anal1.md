@@ -17,8 +17,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) outdone at&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) summoned from&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C) kept from**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) displaced at
 
 Fluoride <ins>deters</ins> tooth decay by reducing the growth of bacteria that destroy tooth enamel. 
-   
-   A) refutes B) overwhelms **C) inhibits** D) loosens
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) refutes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) overwhelms  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C) inhibits**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) loosens
   
   2. TOEFL 
  
