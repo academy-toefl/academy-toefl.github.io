@@ -16,7 +16,7 @@
   Despite the poor weather conditions, the delivery people could not be <ins>deterred from</ins> their work. ('80/1 TOEFL) -> p.30  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) outdone at&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) summoned from&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C) kept from**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) displaced at
 
-Fluoride <ins>deters</ins> tooth decay by reducing the growth of bacteria that destroy tooth enamel. 
+Fluoride <ins>deters</ins> tooth decay by reducing the growth of bacteria that destroy tooth enamel.  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) refutes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) overwhelms  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C) inhibits**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) loosens
   
   2. TOEFL 
