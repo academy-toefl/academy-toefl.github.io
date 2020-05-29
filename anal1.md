@@ -21,22 +21,17 @@ Fluoride <ins>deters</ins> tooth decay by reducing the growth of bacteria that d
   
   2. TOEFL 
  
- In early American novels, the heroines were usually <ins>chaste</ins>.
+ In early American novels, the heroines were usually <ins>chaste</ins>.  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) scheming&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) earnest&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C) fickle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**D) virtuous**
    
-   A) scheming B) earnest C) fickle **D) virtuous**
-   
-   We expect housewives are usually <ins>chaste</ins>.
-  
-   A) taciturn B) diligent **C) virtuous** D) earnest
+   We expect housewives are usually <ins>chaste</ins>.  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) taciturn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) diligent&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C) virtuous**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) earnest
  
- Psychologists still wonder if some personality traits are <ins>innate</ins>.
+ Psychologists still wonder if some personality traits are <ins>innate</ins>.  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) interminable&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) ubadvertent&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C) inborn**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) inevitable
   
-   A) interminable B) ubadvertent **C) inborn** D) inevitable
-  
-  In the dark, I took him for George.
-  
-   A) introduced him to           **B) confused him with**
-   C) cheated him for               D) went to see
+  In the dark, I took him for George.  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) introduced him to&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**B) confused him with**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C) cheated him for&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) went to see
   
   3.
    
