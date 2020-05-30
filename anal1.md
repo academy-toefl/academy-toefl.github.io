@@ -16,16 +16,16 @@
   Despite the poor weather conditions, the delivery people could not be <ins>deterred from</ins> their work. ('80/1 TOEFL) -> p.30  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) outdone at&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) summoned from&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C) kept from**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) displaced at
 
-Fluoride <ins>deters</ins> tooth decay by reducing the growth of bacteria that destroy tooth enamel.  
+  Fluoride <ins>deters</ins> tooth decay by reducing the growth of bacteria that destroy tooth enamel.  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) refutes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) overwhelms  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C) inhibits**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) loosens
   
   2. TOEFL 
  
- In early American novels, the heroines were usually <ins>chaste</ins>.  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) scheming&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) earnest&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C) fickle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**D) virtuous**
+  In early American novels, the heroines were usually <ins>chaste</ins>.  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) scheming&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) earnest&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C) fickle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**D) virtuous**
    
-   We expect housewives are usually <ins>chaste</ins>.  
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) taciturn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) diligent&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C) virtuous**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) earnest
+  We expect housewives are usually <ins>chaste</ins>.  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) taciturn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) diligent&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C) virtuous**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) earnest
  
  Psychologists still wonder if some personality traits are <ins>innate</ins>.  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) interminable&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) ubadvertent&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C) inborn**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) inevitable
@@ -35,10 +35,8 @@ Fluoride <ins>deters</ins> tooth decay by reducing the growth of bacteria that d
   
   3.
    
-   You had better <ins>defer</ins> to your old man's wishes.
-  
-  **A) yield** B) postpone C) show respect D) disregard
+  You had better <ins>defer</ins> to your old man's wishes.  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**A) yield**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) postpone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C) show respect&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) disregard
  
- You can't <ins>defer</ins> the action until Mrs. Thomas returns.
-   
-   A) dilate B) scorn **C) delay** D) upbraid
+  You can't <ins>defer</ins> the action until Mrs. Thomas returns. 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) dilate&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) scorn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C) delay**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) upbraid
