@@ -13,31 +13,30 @@
   
   1. TOEFL 등은 문제은행식 출제이어서 해가 거듭할수록 같은 어휘가 반복 출제되기도 한다.
 
-  Despite the poor weather conditions, the delivery people could not be <ins>deterred from</ins> their work.   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) outdone at&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) summoned from&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C) kept from**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) displaced at
+    * Despite the poor weather conditions, the delivery people could not be <ins>deterred from</ins> their work.   
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) outdone at&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) summoned from&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C) kept from**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) displaced at
 
-  Fluoride <ins>deters</ins> tooth decay by reducing the growth of bacteria that destroy tooth enamel.  
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) refutes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) overwhelms  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C) inhibits**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) loosens
+    * Fluoride <ins>deters</ins> tooth decay by reducing the growth of bacteria that destroy tooth enamel.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) refutes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) overwhelms  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C) inhibits**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) loosens
   
   2. TOEFL은 주요 미국대학에서도 가장 권위있는 영어실력평가로 인정하고 있으므로, 국내의 대학원*고시*공채 취직시험에서도 많이 참고를 하여, 변형하거나 유사하게 출제할 뿐 아니라, 종종 같은 문제도 볼수 있다.
  
-  In early American novels, the heroines were usually <ins>chaste</ins>.  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) scheming&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) earnest&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C) fickle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**D) virtuous**
+    * In early American novels, the heroines were usually <ins>chaste</ins>.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) scheming&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) earnest&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C) fickle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**D) virtuous**
    
-  We expect housewives are usually <ins>chaste</ins>.  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) taciturn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) diligent&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C) virtuous**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) earnest
+    * We expect housewives are usually <ins>chaste</ins>.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) taciturn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) diligent&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C) virtuous**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) earnest
  
- Psychologists still wonder if some personality traits are <ins>innate</ins>.  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) interminable&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) inadvertent&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C) inborn**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) inevitable
+    * Psychologists still wonder if some personality traits are <ins>innate</ins>.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) interminable&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) inadvertent&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C) inborn**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) inevitable
   
-  In the dark, I took him for George.  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) introduced him to&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**B) confused him with**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C) cheated him for&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) went to see
+    * In the dark, I took him for George.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) introduced him to&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**B) confused him with**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C) cheated him for&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) went to see
   
   3. 단편적인 암기보다는 한 어휘의 활용폭(용례 * 동의어 * 반의어 * 파생어 등)을 넓히도록 한다.
    
-  You had better <ins>defer</ins> to your old man's wishes.  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**A) yield**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) postpone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C) show respect&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) disregard
+    * You had better <ins>defer</ins> to your old man's wishes.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**A) yield**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) postpone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C) show respect&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) disregard
  
-  You can't <ins>defer</ins> the action until Mrs. Thomas returns. 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) dilate&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) scorn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C) delay**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) upbraid
-   
+    * You can't <ins>defer</ins> the action until Mrs. Thomas returns. 
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) dilate&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) scorn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C) delay**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) upbraid
