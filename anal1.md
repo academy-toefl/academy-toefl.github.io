@@ -38,5 +38,6 @@
     * You had better <ins>defer</ins> to your old man's wishes.  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**A) yield**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) postpone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C) show respect&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) disregard
  
-    * You can't <ins>defer</ins> the action until Mrs. Thomas returns. 
+    * You can't <ins>defer</ins> the action until Mrs. Thomas returns.  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) dilate&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) scorn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C) delay**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) upbraid
+
