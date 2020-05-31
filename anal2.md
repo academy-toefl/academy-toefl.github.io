@@ -20,8 +20,8 @@
         * Is the climate of Italy ________?   
         A) similar like Florida &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B) somewhat similar to Florida   
         C) so much like Florida &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **D) somewhat like Florida**
-        * She was <ins>said</ins> by a women <ins>that</ins> they had husbands <ins>to protect</ins> their rights and that <ins>what</ins> she needed <ins>was</ins> a husband.  
-        **A) Said**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B) that &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  C) to protect &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  D) what &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E) was
+        * She was <ins>said</ins> by women <ins>that</ins> they had husbands <ins>to protect</ins> their rights and that <ins>what</ins> she needed <ins>was</ins> a husband.  
+        **A) said**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B) that &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  C) to protect &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  D) what &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E) was
    
    ______ he called, he was told that his friend was not home.
    
