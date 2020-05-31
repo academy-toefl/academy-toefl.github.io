@@ -22,11 +22,9 @@
         C) so much like Florida &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **D) somewhat like Florida**
         * She was <ins>said</ins> by women <ins>that</ins> they had husbands <ins>to protect</ins> their rights and that <ins>what</ins> she needed <ins>was</ins> a husband.  
         **A) said**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B) that &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  C) to protect &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  D) what &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E) was
-   
-   ______ he called, he was told that his friend was not home.
-   
-   A)  Whenever  B) Every time  C) Each time  **D) All the time** 
-   
-   Instead of ________ into a nearby river of lake, sewage is sent to a giant tank where water is purified.
-   
-   A) dumped  B) being dumping  **C) being dumped**  D) dumping  E) dump
+    2. TOELF * 공채취직 * 고시 * 대학원 수험생은 정상수준까지 카버할 수 있어야 함은 두 말할 필요도 없다. 일반적으로 공채 취직시험이 TOELF 수준이라고 본다면, 고시 * 대학원은 그 보다 한 단계 높은 문제 즉 수험생들이 소홀히 하기 쉬운 함정이 있거나, 두가지 이상의 사항을 함께 묻는 상당히 난이도가 높은 문제들이다.
+        * 주어진 글을 완성하는데 맞지 <ins>않는</ins> 것은?
+        ______ he called, he was told that his friend was not home.  
+        A)  Whenever  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B) Every time &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C) Each time &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **D) All the time** 
+        * Instead of ________ into a nearby river of lake, sewage is sent to a giant tank where water is purified.  
+        A) dumped  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B) being dumping &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **C) being dumped**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D) dumping &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E) dump
