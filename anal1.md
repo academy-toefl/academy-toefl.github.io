@@ -41,9 +41,14 @@
   You can't <ins>defer</ins> the action until Mrs. Thomas returns. 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) dilate&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) scorn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C) delay**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) upbraid
    
-   <ins>______</ins> rapid spread of railways and the increase in ocean transport , long-distance traveling became more common
+   ________ rapid spread of railways and the increase in ocean transport , long-distance traveling became more common
     
    A) The B) It was the **C) With the** D) On
    
    <ins>An echo</ins> is a <ins>sound</ins> heard <ins>subsequent</ins> it is <ins>reflected from</ins> an object.
-          A)                     B)                 **C***                         D)
+          
+   A)                     B)                 **C**                         D)
+   
+   "I am _________."
+    
+  **A) Korean** B) a Korean C) Koreans D) the Korean E) Korea
