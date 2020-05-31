@@ -28,7 +28,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) taciturn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) diligent&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C) virtuous**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) earnest
  
  Psychologists still wonder if some personality traits are <ins>innate</ins>.  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) interminable&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) ubadvertent&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C) inborn**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) inevitable
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) interminable&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) inadvertent&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C) inborn**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) inevitable
   
   In the dark, I took him for George.  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) introduced him to&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**B) confused him with**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C) cheated him for&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) went to see
