@@ -47,7 +47,7 @@
    
    <ins>An echo</ins> is a <ins>sound</ins> heard <ins>subsequent</ins> it is <ins>reflected from</ins> an object.
           
-   A) An echo B) sound** C) subsequent** D) reflected from
+   A) An echo  B) sound  **C) subsequent**   D) reflected from
    
    "I am _________."
     
