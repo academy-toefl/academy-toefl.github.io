@@ -13,7 +13,7 @@
   
   1. TOEFL 등은 문제은행식 출제이어서 해가 거듭할수록 같은 어휘가 반복 출제되기도 한다.
 
-  Despite the poor weather conditions, the delivery people could not be <ins>deterred from</ins> their work. ('80/1 TOEFL) -> p.30  
+  Despite the poor weather conditions, the delivery people could not be <ins>deterred from</ins> their work.   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) outdone at&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) summoned from&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C) kept from**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) displaced at
 
   Fluoride <ins>deters</ins> tooth decay by reducing the growth of bacteria that destroy tooth enamel.  
