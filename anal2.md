@@ -12,7 +12,7 @@
    
     2. 한 문장에서 네 곳에 밑줄이 그어져 있다. 그중 문법적으로 잘못되어 있거나 어법이 <ins>틀린 것 하나</ins>를 고른다. 공채 취직 * 각종고시 * 대학원 등의 시험에서도 출제빈도수가 늘고 있다. 평소 훈련되지 않은 생소한 형태여서 쉬운 문제도 어렵게 보이기 때문에 각별한 연습이 필요하다.  
     <ins>An echo</ins> is a <ins>sound</ins> heard <ins>subsequent</ins> it is <ins>reflected from</ins> an object.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D
    
    "I am _________."
     
