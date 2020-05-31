@@ -43,4 +43,6 @@
    
    <ins>______</ins> rapid spread of railways and the increase in ocean transport , long-distance traveling became more common
     
-    A) The B) It was the **C) With the** D) On
+   A) The B) It was the **C) With the** D) On
+   
+   <ins>An echo</ins> is a <ins>sound</ins> heard <ins>subsequent</ins> it is <ins>reflected from</ins> an object.
