@@ -3,6 +3,10 @@
     
     27여년간 출제된 기본적이고 필수적인 2,000여 문제의 group별 분석 * 정리.
 
+ 문법 * 어법 * 구문 등의 이해 정도와 표현 능력을 측정하는 테스트로서 영문이해의 가장 근본이 되고, 중요하기 때문에 본서에서는 독해력과 함께 가장 많은 지면을 할애하였다.
+ 
+ 1.출제유형
+   (1) 한 단어 또는 어구의 자리에 밑줄로 비어있는 형태로 문장이 주어지고, 네개의 choice 중에서 문법적으로 <ins>가장 옳은 것 하나</ins>를 고른다.(1976년 이전에는 두사람의 대화가 인용 출제되었는데, 현재는 공채 취직시험 등에서 많이 볼 수 있다)  
    ________ rapid spread of railways and the increase in ocean transport , long-distance traveling became more common
     
    A) The B) It was the **C) With the** D) On
