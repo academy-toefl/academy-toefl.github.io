@@ -13,15 +13,12 @@
     2. 한 문장에서 네 곳에 밑줄이 그어져 있다. 그중 문법적으로 잘못되어 있거나 어법이 <ins>틀린 것 하나</ins>를 고른다. 공채 취직 * 각종고시 * 대학원 등의 시험에서도 출제빈도수가 늘고 있다. 평소 훈련되지 않은 생소한 형태여서 쉬운 문제도 어렵게 보이기 때문에 각별한 연습이 필요하다.  
     <ins>An echo</ins> is a <ins>sound</ins> heard <ins>subsequent</ins> it is <ins>reflected from</ins> an object.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **C** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D
-   
-   "I am _________."
-    
-  **A) Korean**  B) a Korean  C) Koreans  D) the Korean  E) Korea
-  
-   Is the climate of Italy ________?
-   
-   A) similar like Florida               B) somewhat similar to Florida
-   
+2. 경향과 대책
+    1. TOEFL은 가장 권위있는 영어실력 평가로 미국은 물론 세계에서 정평이 있기 때문에 우리 나라에서도 모델로 삼고 있으며, 고시 * 대학원 * 공채 취직시험 등에서도 사소 변형시켜 출제하거나, 간혹 그대로 옮겨 출제되므로, 기출문제를 많이 다루어 본 수험생일수록 고득점을 할 수 있다.
+   "I am _________."  
+    **A) Korean**  B) a Korean  C) Koreans  D) the Korean  E) Korea  
+   Is the climate of Italy ________?   
+   A) similar like Florida               B) somewhat similar to Florida   
    C) so much like Florida               **D) somewhat like Florida**
    
    She was <ins>said</ins> by a women <ins>that</ins> they had husbands <ins>to protect</ins> their rights and that <ins>what</ins> she needed <ins>was</ins> a husband.
