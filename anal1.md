@@ -40,3 +40,5 @@
  
   You can't <ins>defer</ins> the action until Mrs. Thomas returns. 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A) dilate&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B) scorn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C) delay**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D) upbraid
+   <ins>______</ins> rapid spread of railways and the increase in ocean transport , long-distance traveling became more common
+    A) The B) It was the **C) With the** D)
