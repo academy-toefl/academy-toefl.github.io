@@ -8,7 +8,7 @@
 
 TOEFL * 고시 * 취직 * 대학원 수험영어 출제경향과 분석
 * [제 1 부 VOCABULARY](anal1.md)
-* [제2부 STRUCTURE & WRITTEN EXPRESSION](anal2.md)
+* [제 2 부 STRUCTURE & WRITTEN EXPRESSION](anal2.md)
 
 ### 제1부 VOCABULARY
 
