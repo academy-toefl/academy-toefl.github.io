@@ -6,8 +6,9 @@
 
 ## 목 차
 
-[TOEFL * 고시 * 취직 * 대학원 수험영어 출제경향과 분석](anal1.md)
-
+TOEFL * 고시 * 취직 * 대학원 수험영어 출제경향과 분석
+* [제 1 부 VOCABULARY](anal1.md)
+* [제2부 STRUCTURE & WRITTEN EXPRESSION](anal2.md)
 
 ### 제1부 VOCABULARY
 
