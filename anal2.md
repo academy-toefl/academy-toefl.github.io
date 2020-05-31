@@ -14,7 +14,7 @@
     <ins>An echo</ins> is a <ins>sound</ins> heard <ins>subsequent</ins> it is <ins>reflected from</ins> an object.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **C** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D
 2. 경향과 대책
-    1. TOEFL은 가장 권위있는 영어실력 평가로 미국은 물론 세계에서 정평이 있기 때문에 우리 나라에서도 모델로 삼고 있으며, 고시 * 대학원 * 공채 취직시험 등에서도 사소 변형시켜 출제하거나, 간혹 그대로 옮겨 출제되므로, 기출문제를 많이 다루어 본 수험생일수록 고득점을 할 수 있다.
+    1. TOEFL은 가장 권위있는 영어실력 평가로 미국은 물론 세계에서 정평이 있기 때문에 우리 나라에서도 모델로 삼고 있으며, 고시 * 대학원 * 공채 취직시험 등에서도 사소 변형시켜 출제하거나, 간혹 그대로 옮겨 출제되므로, 기출문제를 많이 다루어 본 수험생일수록 고득점을 할 수 있다.  
    "I am _________."  
     **A) Korean**  B) a Korean  C) Koreans  D) the Korean  E) Korea  
    Is the climate of Italy ________?   
