@@ -13,7 +13,7 @@ TOEFL * 고시 * 취직 * 대학원 수험영어 출제경향과 분석
 
 ### 제1부 VOCABULARY
 
-A Key to Word Recognition --- Prefixes, Suffixes, Latin and Greek Stems
+A Key to Word Recognition --- [Prefixes, Suffixes](12.md), [Latin and Greek Stems](13.md)
 
 * PART I. 어 원 (Enlarging Vocabulary through Etymology)	- Group 1~57
 * PART II. 유 어 (Enlarging Vocabulary through Synonyms) 	- Group 58~100
